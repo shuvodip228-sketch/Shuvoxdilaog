@@ -4,21 +4,21 @@
 
   "title": "Premium Login",
   "descriptions": [
-    "Welcome to Premium Access.",
+    "Welcome to Shuvo Premium Access.",
     "Enter your password to continue.",
     "Make sure your device is registered."
   ],
 
   "button_login": "Login",
-  "button_admin": "Admin",
+  "button_admin": "Shuvo Admin",
   "button_copy": "Copy ID",
   "admin_url": "https://google.com",
 
   "device_section": [
     {
-      "device_id": "1234567890abcdef",
-      "password": "1122",
-      "expire_date": "2025-12-31"
+      "device_id": "9aa620d0251e76ac",
+      "password": "Papiya",
+      "expire_date": "2026-09-06"
     },
     {
       "device_id": "abcdef9876543210",
